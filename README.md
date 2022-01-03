@@ -1,4 +1,13 @@
 ## Olá eu sou o Allan Ribeiro!
+
+<p>Sou estudante em Análise e Desenvolvimento de Sistemas. Passei por muitos lugares mas hoje me encontrei na área da Programação, onde sempre tive contato em minhas experiências anteriores.</p>
+
+<p>Atualmente estou aprendendo a Stack JavaScript, React e Node.js pela Alura, e pretendo trazer para o GitHub toda a minha experiência e projetos feitos lá. Tenho também conhecimento em PHP, SQL e Java juntamente com a Arquitetura MVC.</p>
+
+<p>Apesar de já ter feito algumas coisas anteriormente estou oficialmente começando agora aqui.</p>
+
+<p>Sintam-se à vontade para me adicionar/seguir em minhas redes sociais logo abaixo, será um prazer recebe-los!</p>
+
 <div align="center">
   <a href="https://github.com/AllanGhaok">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanGhaok&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
