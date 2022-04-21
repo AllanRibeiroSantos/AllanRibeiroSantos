@@ -21,7 +21,6 @@
   <img align="center" alt="Allan-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Allan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Allan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Allan-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202112/94097_mQvoWn1y.png">
 </div>
 
   ##
