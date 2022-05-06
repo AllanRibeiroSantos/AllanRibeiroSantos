@@ -1,6 +1,6 @@
 ## Olá eu sou o Allan Ribeiro!
 
-<p>Sou estudante em Análise e Desenvolvimento de Sistemas. Passei por muitos lugares mas hoje me encontrei na área da Programação, onde sempre tive contato em minhas experiências anteriores.</p>
+<p>Sou formado em Análise e Desenvolvimento de Sistemas. Passei por muitos lugares mas hoje me encontrei na área da Programação, onde sempre tive contato em minhas experiências anteriores.</p>
 
 <p>Atualmente estou aprendendo a Stack JavaScript, React e Node.js pela Alura, e pretendo trazer para o GitHub toda a minha experiência e projetos feitos lá. Tenho também conhecimento em PHP, SQL e Java juntamente com a Arquitetura MVC.</p>
 
